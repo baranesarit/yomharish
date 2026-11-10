@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 576
+PlayResY: 1024
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Heebo Black,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4.5,3,2,30,30,250,1
+Style: Hook,Heebo Black,38,&H00000000,&H00000000,&H0000E5FF,&H00000000,0,0,0,0,100,100,0,0,3,14,0,8,30,30,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 5,0:00:00.00,0:01:04.75,Hook,,0,0,0,,{\fscx40\fscy40\t(0,180,\fscx110\fscy110)\t(180,300,\fscx100\fscy100)}מה הסוד שמסתתר\Nמתחת לבנייני האומה???‏
+Dialogue: 1,0:00:00.00,0:00:01.22,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בוקר יום שני‏
+Dialogue: 1,0:00:01.22,0:00:02.43,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בנייני {\c&H0000E5FF&}האומה{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:02.43,0:00:03.27,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אני בכנס‏
+Dialogue: 1,0:00:03.27,0:00:04.49,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}החינוך הלאומי‏
+Dialogue: 1,0:00:04.49,0:00:05.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בירושלים‏
+Dialogue: 1,0:00:06.00,0:00:06.87,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואני רוצה‏
+Dialogue: 1,0:00:06.87,0:00:07.89,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}להראות לכם‏
+Dialogue: 1,0:00:07.89,0:00:09.06,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}למי שלא יודע‏
+Dialogue: 1,0:00:09.06,0:00:09.86,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה {\c&H0000E5FF&}מסתתר{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:09.86,0:00:10.51,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בקומות‏
+Dialogue: 1,0:00:10.51,0:00:11.53,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}התחתונות של‏
+Dialogue: 1,0:00:11.53,0:00:12.04,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מרכז‏
+Dialogue: 1,0:00:12.04,0:00:12.98,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הקונגרסים‏
+Dialogue: 1,0:00:12.98,0:00:14.22,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בבנייני {\c&H0000E5FF&}האומה{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:14.46,0:00:15.93,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כשהתחילו לבנות‏
+Dialogue: 1,0:00:15.93,0:00:16.63,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אותו‏
+Dialogue: 1,0:00:16.63,0:00:17.58,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}גילו כאן‏
+Dialogue: 1,0:00:17.58,0:00:18.88,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}ממצאים{\c&H00FFFFFF&} מלפני‏
+Dialogue: 1,0:00:18.88,0:00:19.92,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}1900{\c&H00FFFFFF&} שנה!‏
+Dialogue: 1,0:00:20.64,0:00:21.84,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}גילו כאן‏
+Dialogue: 1,0:00:21.84,0:00:22.93,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כבשנים{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:22.93,0:00:24.45,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כבשנים{\c&H00FFFFFF&} לכלי‏
+Dialogue: 1,0:00:24.45,0:00:26.19,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}חרס של {\c&H0000E5FF&}הלגיון{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:26.19,0:00:28.04,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}הרומאי{\c&H00FFFFFF&} {\c&H0000E5FF&}העשירי{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:28.04,0:00:28.65,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}והממצאים‏
+Dialogue: 1,0:00:28.65,0:00:29.43,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}נמצאים כאן‏
+Dialogue: 1,0:00:29.43,0:00:30.04,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מאחוריי‏
+Dialogue: 1,0:00:30.04,0:00:30.93,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}תיכף אני אראה‏
+Dialogue: 1,0:00:30.93,0:00:31.32,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}לכם‏
+Dialogue: 1,0:00:31.56,0:00:32.37,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}תחשבו איזה‏
+Dialogue: 1,0:00:32.37,0:00:33.12,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}מדהים{\c&H00FFFFFF&} זה!‏
+Dialogue: 1,0:00:33.12,0:00:34.12,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}הלגיון{\c&H00FFFFFF&} {\c&H0000E5FF&}העשירי{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:34.12,0:00:35.19,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הגיע לכאן אחרי‏
+Dialogue: 1,0:00:35.19,0:00:36.12,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מרד בר {\c&H0000E5FF&}כוכבא{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:36.12,0:00:37.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כדי לדכא את‏
+Dialogue: 1,0:00:37.00,0:00:37.50,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}המרד‏
+Dialogue: 1,0:00:38.10,0:00:39.10,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בעצם‏
+Dialogue: 1,0:00:39.10,0:00:40.86,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אחרי מרד בר‏
+Dialogue: 1,0:00:40.86,0:00:41.98,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כוכבא{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:41.98,0:00:43.99,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}ירושלים{\c&H00FFFFFF&} חרבה‏
+Dialogue: 1,0:00:43.99,0:00:45.11,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}נחרשה‏
+Dialogue: 1,0:00:45.11,0:00:47.12,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואז הגיע לכאן‏
+Dialogue: 1,0:00:47.12,0:00:48.62,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}השם סוריה‏
+Dialogue: 1,0:00:48.62,0:00:50.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}פלשתינה{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:51.40,0:00:52.88,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ובעצם היום‏
+Dialogue: 1,0:00:52.88,0:00:54.58,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אנחנו נמצאים‏
+Dialogue: 1,0:00:54.58,0:00:55.83,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כאן בכנס‏
+Dialogue: 1,0:00:55.83,0:00:57.53,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}לחינוך יהודי‏
+Dialogue: 1,0:00:57.53,0:00:58.67,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ישראלי‏
+Dialogue: 1,0:00:58.67,0:01:00.26,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בארץ {\c&H0000E5FF&}ישראל{\c&H00FFFFFF&}‏
+Dialogue: 1,0:01:00.36,0:01:01.22,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}תגידו לי‏
+Dialogue: 1,0:01:01.22,0:01:02.29,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}זה לא {\c&H0000E5FF&}מדהים?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:01:02.29,0:01:02.94,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יאללה‏
+Dialogue: 1,0:01:02.94,0:01:03.80,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בואו נעשה‏
+Dialogue: 1,0:01:03.80,0:01:04.44,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}חינוך!{\c&H00FFFFFF&}‏
