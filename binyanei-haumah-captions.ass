@@ -7,8 +7,8 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,Heebo Black,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4.5,3,2,30,30,250,1
-Style: Hook,Heebo Black,38,&H00000000,&H00000000,&H0000E5FF,&H00000000,0,0,0,0,100,100,0,0,3,14,0,8,30,30,70,1
+Style: Cap,Heebo Black,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4.5,3,2,30,30,250,-1
+Style: Hook,Heebo Black,40,&H00000000,&H00000000,&H0000E5FF,&H00000000,0,0,0,0,100,100,0,0,3,14,0,8,30,30,70,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
