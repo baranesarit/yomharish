@@ -13,11 +13,12 @@ Style: Hook,Heebo Black,38,&H00000000,&H00000000,&H0000E5FF,&H00000000,0,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:00.00,0:01:04.75,Hook,,0,0,0,,{\fscx40\fscy40\t(0,180,\fscx110\fscy110)\t(180,300,\fscx100\fscy100)}מה הסוד שמסתתר\Nמתחת לבנייני האומה???‏
-Dialogue: 1,0:00:00.00,0:00:01.22,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בוקר יום שני‏
-Dialogue: 1,0:00:01.22,0:00:02.43,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בנייני {\c&H0000E5FF&}האומה{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:02.43,0:00:03.27,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אני בכנס‏
-Dialogue: 1,0:00:03.27,0:00:04.49,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}החינוך הלאומי‏
-Dialogue: 1,0:00:04.49,0:00:05.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בירושלים‏
+Dialogue: 1,0:00:00.00,0:00:01.14,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בוקר יום שני‏
+Dialogue: 1,0:00:01.14,0:00:02.27,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בנייני {\c&H0000E5FF&}האומה{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:02.27,0:00:03.06,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אני בכנס‏
+Dialogue: 1,0:00:03.06,0:00:03.69,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}החינוך‏
+Dialogue: 1,0:00:03.69,0:00:04.55,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הבינלאומי‏
+Dialogue: 1,0:00:04.55,0:00:05.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בירושלים‏
 Dialogue: 1,0:00:06.00,0:00:06.87,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואני רוצה‏
 Dialogue: 1,0:00:06.87,0:00:07.89,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}להראות לכם‏
 Dialogue: 1,0:00:07.89,0:00:09.06,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}למי שלא יודע‏
