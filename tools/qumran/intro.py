@@ -1,6 +1,6 @@
 import math, random, sys, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-W,H,FPS,DUR=576,1024,30,6.0
+W,H,FPS,DUR=576,1024,30,9.6
 N=int(FPS*DUR); out=sys.argv[2]; os.makedirs(out,exist_ok=True)
 logo=Image.open(sys.argv[1]).convert("RGBA")
 LW=560; logo=logo.resize((LW,int(logo.height*LW/logo.width)),Image.LANCZOS)
