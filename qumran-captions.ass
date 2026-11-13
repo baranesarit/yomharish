@@ -72,6 +72,6 @@ Dialogue: 1,0:01:09.04,0:01:09.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fs
 Dialogue: 1,0:01:09.50,0:01:10.26,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יאללה!‏
 Dialogue: 6,0:01:10.35,0:01:13.30,End2,,0,0,0,,{\pos(288,620)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}מוזמנים לעקוב אחרינו‏
 Dialogue: 6,0:01:10.60,0:01:13.30,End,,0,0,0,,{\pos(288,700)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}באינסטגרם‏
-Dialogue: 6,0:01:10.75,0:01:13.30,End2,,0,0,0,,{\pos(288,765)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baaranes‎
+Dialogue: 6,0:01:10.75,0:01:13.30,End2,,0,0,0,,{\pos(288,765)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎
 Dialogue: 6,0:01:10.95,0:01:13.30,End,,0,0,0,,{\pos(288,845)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}ובטיקטוק‏
 Dialogue: 6,0:01:11.10,0:01:13.30,End2,,0,0,0,,{\pos(288,910)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎

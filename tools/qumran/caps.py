@@ -32,7 +32,7 @@ for s,e,t in L:
     o.append(f"Dialogue: 1,{ts(s)},{ts(e)},Cap,,0,0,0,,{POP}{t}{RLM}")
 POPE="\\fad(200,0)\\fscx40\\fscy40\\t(0,220,\\fscx108\\fscy108)\\t(220,340,\\fscx100\\fscy100)"
 LRM="\u200e"
-for st,sty,y,txt in [(70.35,"End2",620,"מוזמנים לעקוב אחרינו"+RLM),(70.6,"End",700,"באינסטגרם"+RLM),(70.75,"End2",765,LRM+"@sarita.baaranes"+LRM),
+for st,sty,y,txt in [(70.35,"End2",620,"מוזמנים לעקוב אחרינו"+RLM),(70.6,"End",700,"באינסטגרם"+RLM),(70.75,"End2",765,LRM+"@sarita.baranes"+LRM),
                      (70.95,"End",845,"ובטיקטוק"+RLM),(71.1,"End2",910,LRM+"@sarita.baranes"+LRM)]:
     o.append(f"Dialogue: 6,{ts(st)},{ts(END)},{sty},,0,0,0,,{{\\pos(288,{y}){POPE}}}{txt}")
 print("\n".join(o))
