@@ -15,63 +15,75 @@ Style: End2,Heebo Black,40,&H00FFFFFF,&H00FFFFFF,&H00573519,&H96000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:00:00.00,0:01:10.26,Hook,,0,0,0,,{\fscx40\fscy40\t(0,180,\fscx110\fscy110)\t(180,300,\fscx100\fscy100)}מה מסתתר\Nבמערות של קומראן???‏
-Dialogue: 4,0:00:00.30,0:00:04.20,Tag,,0,0,0,,{\fad(250,300)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}קומראן • מדבר יהודה‏
-Dialogue: 1,0:00:02.16,0:00:03.84,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}זה {\c&H0000E5FF&}מהמם{\c&H00FFFFFF&}!‏
-Dialogue: 1,0:00:04.40,0:00:05.52,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מעניין מה יש?‏
-Dialogue: 1,0:00:05.68,0:00:06.90,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה יש פה?‏
-Dialogue: 1,0:00:07.44,0:00:08.32,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}היי, מה קורה?‏
-Dialogue: 1,0:00:08.46,0:00:09.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אהלן! איפה אנחנו?‏
-Dialogue: 1,0:00:09.58,0:00:10.50,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אנחנו {\c&H0000E5FF&}בקומראן{\c&H00FFFFFF&}!‏
-Dialogue: 1,0:00:10.58,0:00:11.10,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה?‏
-Dialogue: 1,0:00:11.10,0:00:12.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה זה {\c&H0000E5FF&}קומראן{\c&H00FFFFFF&}?‏
-Dialogue: 1,0:00:13.00,0:00:14.32,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}זה בעצם‏
-Dialogue: 1,0:00:14.32,0:00:16.34,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}היישוב של‏
-Dialogue: 1,0:00:16.34,0:00:17.15,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}בני האור{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:17.22,0:00:17.95,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}בני?‏
-Dialogue: 1,0:00:18.10,0:00:19.52,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}בני האור{\c&H00FFFFFF&}?‏
-Dialogue: 1,0:00:19.56,0:00:20.82,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כת היחד{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:20.86,0:00:21.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מעניין!‏
-Dialogue: 1,0:00:21.82,0:00:22.82,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה, למה הם גרו‏
-Dialogue: 1,0:00:22.82,0:00:24.20,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}דווקא {\c&H0000E5FF&}במדבר{\c&H00FFFFFF&}?‏
-Dialogue: 1,0:00:26.60,0:00:28.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כי {\c&H0000E5FF&}בירושלים{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:28.10,0:00:29.56,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}הורדוס{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:29.56,0:00:31.75,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שיחד את כל {\c&H0000E5FF&}הכהנים{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:31.82,0:00:33.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שהוא ישלם להם {\c&H0000E5FF&}כסף{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:34.12,0:00:35.84,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואז פשוט כל אחד‏
-Dialogue: 1,0:00:35.88,0:00:36.80,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}פשוט‏
-Dialogue: 1,0:00:37.18,0:00:37.86,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}התחיל להתנהג‏
-Dialogue: 1,0:00:37.86,0:00:38.70,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שם {\c&H0000E5FF&}לא יפה{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:38.78,0:00:40.26,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז הכת החליטו‏
-Dialogue: 1,0:00:40.26,0:00:41.66,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שהם רוצים לעבור‏
-Dialogue: 1,0:00:41.66,0:00:42.95,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}למדבר{\c&H00FFFFFF&}!‏
-Dialogue: 1,0:00:43.18,0:00:44.30,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואז כאן מה הם עשו?‏
-Dialogue: 1,0:00:44.32,0:00:45.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}על מה הם {\c&H0000E5FF&}שמרו{\c&H00FFFFFF&}?‏
-Dialogue: 1,0:00:46.08,0:00:47.64,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הם שמרו על {\c&H0000E5FF&}המגילות{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:47.64,0:00:48.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שהם כתבו‏
-Dialogue: 1,0:00:48.50,0:00:49.55,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אה, יפה!‏
-Dialogue: 1,0:00:49.70,0:00:50.48,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז מה בסוף קרה‏
-Dialogue: 1,0:00:50.48,0:00:51.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}עם {\c&H0000E5FF&}המגילות{\c&H00FFFFFF&} האלה?‏
-Dialogue: 1,0:00:51.58,0:00:52.96,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הם בסוף שמו אותם‏
-Dialogue: 1,0:00:52.96,0:00:54.25,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}במערות{\c&H00FFFFFF&} כמו שאת רואה‏
-Dialogue: 1,0:00:54.36,0:00:55.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}למה הם שמו {\c&H0000E5FF&}במערות{\c&H00FFFFFF&}?‏
-Dialogue: 1,0:00:55.88,0:00:58.72,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כי {\c&H0000E5FF&}הרומאים{\c&H00FFFFFF&}‏
-Dialogue: 1,0:00:58.72,0:00:59.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}באו‏
-Dialogue: 1,0:00:59.56,0:01:00.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}והם פחדו‏
-Dialogue: 1,0:01:00.74,0:01:01.68,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שהם יגנבו להם‏
-Dialogue: 1,0:01:01.68,0:01:02.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}את כל {\c&H0000E5FF&}המגילות{\c&H00FFFFFF&}‏
-Dialogue: 1,0:01:02.76,0:01:03.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז איפה הם‏
-Dialogue: 1,0:01:03.74,0:01:05.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}החביאו{\c&H00FFFFFF&} את המגילות שלהם?‏
-Dialogue: 1,0:01:05.12,0:01:06.10,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}פה,‏
-Dialogue: 1,0:01:06.10,0:01:06.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}במערות{\c&H00FFFFFF&}!‏
-Dialogue: 1,0:01:06.62,0:01:07.20,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}מדהים{\c&H00FFFFFF&}!‏
-Dialogue: 1,0:01:07.24,0:01:07.96,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}עכשיו אני אספר לך‏
-Dialogue: 1,0:01:07.96,0:01:08.46,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}איך {\c&H0000E5FF&}מצאו{\c&H00FFFFFF&} אותה‏
-Dialogue: 1,0:01:08.48,0:01:08.95,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מוכנה?‏
-Dialogue: 1,0:01:09.04,0:01:09.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כן!‏
-Dialogue: 1,0:01:09.50,0:01:10.26,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יאללה!‏
-Dialogue: 6,0:01:10.35,0:01:13.30,End2,,0,0,0,,{\pos(288,620)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}מוזמנים לעקוב אחרינו‏
-Dialogue: 6,0:01:10.60,0:01:13.30,End,,0,0,0,,{\pos(288,700)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}באינסטגרם‏
-Dialogue: 6,0:01:10.75,0:01:13.30,End2,,0,0,0,,{\pos(288,765)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎
-Dialogue: 6,0:01:10.95,0:01:13.30,End,,0,0,0,,{\pos(288,845)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}ובטיקטוק‏
-Dialogue: 6,0:01:11.10,0:01:13.30,End2,,0,0,0,,{\pos(288,910)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎
+Dialogue: 5,0:00:00.00,0:01:05.26,Hook,,0,0,0,,{\fscx40\fscy40\t(0,180,\fscx110\fscy110)\t(180,300,\fscx100\fscy100)}מה מסתתר\Nבמערות של קומראן???‏
+Dialogue: 4,0:00:00.30,0:00:04.60,Tag,,0,0,0,,{\fad(250,300)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}קומראן • מדבר יהודה‏
+Dialogue: 1,0:00:00.72,0:00:01.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}זה {\c&H0000E5FF&}מהמם!{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:02.30,0:00:03.42,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מעניין מה יש?‏
+Dialogue: 1,0:00:03.58,0:00:04.66,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה יש פה?‏
+Dialogue: 1,0:00:05.36,0:00:05.71,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}היי,‏
+Dialogue: 1,0:00:05.72,0:00:06.22,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה קורה?‏
+Dialogue: 1,0:00:06.38,0:00:06.70,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אהלן,‏
+Dialogue: 1,0:00:06.70,0:00:07.20,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}איפה אנחנו?‏
+Dialogue: 1,0:00:07.52,0:00:08.30,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אנחנו {\c&H0000E5FF&}בקומראן!{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:08.56,0:00:08.91,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה?‏
+Dialogue: 1,0:00:09.01,0:00:09.98,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה זה {\c&H0000E5FF&}קומראן?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:10.90,0:00:13.36,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}זה בעצם היישוב‏
+Dialogue: 1,0:00:13.36,0:00:15.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}של {\c&H0000E5FF&}בני{\c&H00FFFFFF&} {\c&H0000E5FF&}האור,{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:15.12,0:00:15.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}בני?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:16.00,0:00:17.42,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}בני{\c&H00FFFFFF&} {\c&H0000E5FF&}האור?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:17.46,0:00:18.70,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כת{\c&H00FFFFFF&} {\c&H0000E5FF&}היחד.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:18.76,0:00:19.40,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מעניין.‏
+Dialogue: 1,0:00:19.72,0:00:20.12,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מה,‏
+Dialogue: 1,0:00:20.20,0:00:20.72,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}למה הם גרו‏
+Dialogue: 1,0:00:20.72,0:00:21.38,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}דווקא {\c&H0000E5FF&}במדבר?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:21.60,0:00:22.92,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כי {\c&H0000E5FF&}בירושלים,{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:23.10,0:00:24.56,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}הורדוס,{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:24.56,0:00:25.90,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שיחד את כל‏
+Dialogue: 1,0:00:25.90,0:00:26.68,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}הכהנים,{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:26.82,0:00:27.88,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שהוא ישלם להם‏
+Dialogue: 1,0:00:27.88,0:00:28.50,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}כסף.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:29.12,0:00:30.58,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואז פשוט כל‏
+Dialogue: 1,0:00:30.58,0:00:30.88,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אחד,‏
+Dialogue: 1,0:00:30.88,0:00:31.44,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}פשוט‏
+Dialogue: 1,0:00:32.18,0:00:33.08,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}התחיל להתנהג שם‏
+Dialogue: 1,0:00:33.08,0:00:33.60,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}לא יפה.‏
+Dialogue: 1,0:00:33.78,0:00:34.78,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז הם החליטו‏
+Dialogue: 1,0:00:34.78,0:00:35.98,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הכת שהם רוצים‏
+Dialogue: 1,0:00:35.98,0:00:37.90,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}לעבור {\c&H0000E5FF&}למדבר.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:38.18,0:00:38.94,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}ואז כאן מה‏
+Dialogue: 1,0:00:38.94,0:00:39.30,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הם עשו?‏
+Dialogue: 1,0:00:39.32,0:00:39.54,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}על מה הם‏
+Dialogue: 1,0:00:39.54,0:00:39.96,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שמרו?‏
+Dialogue: 1,0:00:41.08,0:00:42.16,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הם שמרו על‏
+Dialogue: 1,0:00:42.16,0:00:43.36,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}המגילות{\c&H00FFFFFF&} שהם כתבו.‏
+Dialogue: 1,0:00:43.50,0:00:43.86,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אה,‏
+Dialogue: 1,0:00:44.06,0:00:44.46,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יפה.‏
+Dialogue: 1,0:00:44.70,0:00:45.26,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז מה בסוף‏
+Dialogue: 1,0:00:45.26,0:00:46.00,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}קרה עם {\c&H0000E5FF&}המגילות{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:46.00,0:00:46.35,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}האלה?‏
+Dialogue: 1,0:00:46.58,0:00:47.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}הם בסוף שמו‏
+Dialogue: 1,0:00:47.74,0:00:48.68,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אותם {\c&H0000E5FF&}במערות{\c&H00FFFFFF&} כמו‏
+Dialogue: 1,0:00:48.68,0:00:49.20,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שאת רואה.‏
+Dialogue: 1,0:00:49.36,0:00:49.92,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}למה הם שמו‏
+Dialogue: 1,0:00:49.92,0:00:50.42,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}במערות?{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:50.88,0:00:54.24,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כי {\c&H0000E5FF&}הרומאים{\c&H00FFFFFF&} באו,‏
+Dialogue: 1,0:00:54.56,0:00:56.02,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}והם פחדו שהם‏
+Dialogue: 1,0:00:56.02,0:00:56.80,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יגנבו להם את‏
+Dialogue: 1,0:00:56.80,0:00:57.54,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כל {\c&H0000E5FF&}המגילות.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:57.76,0:00:58.74,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אז איפה הם‏
+Dialogue: 1,0:00:58.74,0:00:59.52,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}החביאו{\c&H00FFFFFF&} את {\c&H0000E5FF&}המגילות{\c&H00FFFFFF&}‏
+Dialogue: 1,0:00:59.52,0:00:59.88,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}שלהם?‏
+Dialogue: 1,0:01:00.12,0:01:00.56,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}פה,‏
+Dialogue: 1,0:01:01.16,0:01:01.51,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}במערות.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:01:01.62,0:01:01.98,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}{\c&H0000E5FF&}מדהים.{\c&H00FFFFFF&}‏
+Dialogue: 1,0:01:02.24,0:01:02.80,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}עכשיו אני אספר‏
+Dialogue: 1,0:01:02.80,0:01:03.32,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}לך איך {\c&H0000E5FF&}מצאו{\c&H00FFFFFF&}‏
+Dialogue: 1,0:01:03.32,0:01:03.48,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}אותה.‏
+Dialogue: 1,0:01:03.48,0:01:03.83,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}מוכנה?‏
+Dialogue: 1,0:01:04.04,0:01:04.39,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}כן.‏
+Dialogue: 1,0:01:04.50,0:01:04.85,Cap,,0,0,0,,{\fscx55\fscy55\t(0,90,\fscx112\fscy112)\t(90,160,\fscx100\fscy100)}יאללה!‏
+Dialogue: 6,0:01:05.31,0:01:08.36,End2,,0,0,0,,{\pos(288,620)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}מוזמנים לעקוב אחרינו‏
+Dialogue: 6,0:01:05.56,0:01:08.36,End,,0,0,0,,{\pos(288,700)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}באינסטגרם‏
+Dialogue: 6,0:01:05.71,0:01:08.36,End2,,0,0,0,,{\pos(288,765)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎
+Dialogue: 6,0:01:05.91,0:01:08.36,End,,0,0,0,,{\pos(288,845)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}ובטיקטוק‏
+Dialogue: 6,0:01:06.06,0:01:08.36,End2,,0,0,0,,{\pos(288,910)\fad(200,0)\fscx40\fscy40\t(0,220,\fscx108\fscy108)\t(220,340,\fscx100\fscy100)}‎@sarita.baranes‎
